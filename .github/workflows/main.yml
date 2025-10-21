@@ -24,4 +24,3 @@ jobs:
           port: 22
           source: "./"
           target: "/srv/www/vhosts/default/htdocs/"
-          rm: true     # 事前にリモート側をクリーンアップ（任意）
